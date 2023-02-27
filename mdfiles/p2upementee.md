@@ -33,4 +33,3 @@ class: invert
 - Come to meetings with questions
 - Show up consistently
 - Set goals
-

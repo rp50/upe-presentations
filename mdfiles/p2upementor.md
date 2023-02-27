@@ -28,11 +28,10 @@ Think about what you wanted to know in their positon!
 - You're only expected to dedicate 60 minutes a week
 - You are not a tutor, but a mentor
 - It's okay to not have an answer for everything
-
 --- 
 
 ## How to Have Success
-- Have a consistent date every week
+- Have a consistent meeting time every week
 - Give them tools to solve problems on their own
 
 ---
@@ -40,3 +39,16 @@ Think about what you wanted to know in their positon!
 ## Resources
 - Shared google sheet
 - Discord server
+- Other mentors
+
+--- 
+
+## Important Dates
+- April 3rd @ 6pm: Program Wrap-up
+- May 1st @ 6pm: Program Wrap-up
+
+---
+
+## Choosing Mentees 
+- Check chat for the link to a google sheet with available mentees
+- If you have no preference towards mentees, we will match you with one of the remaining mentees by Wednesday.
