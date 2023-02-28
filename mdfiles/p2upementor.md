@@ -32,6 +32,7 @@ Think about what you wanted to know in their positon!
 
 ## How to Have Success
 - Have a consistent meeting time every week
+- Meeting in a private space in person or on zoom are preferred
 - Give them tools to solve problems on their own
 - Meet them where they are (Discord)
 
@@ -45,11 +46,12 @@ Think about what you wanted to know in their positon!
 --- 
 
 ## Important Dates
-- April 3rd @ 6pm: Program Wrap-up
+- April 3rd @ 6pm: Check-in
 - May 1st @ 6pm: Program Wrap-up
 
 ---
 
 ## Choosing Mentees 
 - Check chat for the link to a google sheet with available mentees
+- Please pay attention to availability
 - If you have no preference towards mentees, we will match you with one of the remaining mentees by Wednesday.

@@ -22,14 +22,19 @@ class: invert
 
 ---
 
-## Expectations
+Def## Expectations
 - Show up on time to your meetings
-- Let your Mentor know when you won't make it!
-- Reach out for help when you need it
+- Let your Mentor know when you won't make it at least a day in advance, if possible
+- Consistent failure to make meetings will be reported
 
 ---
 
-## Getting the Most out of P2UPE
+ ## Getting the Most out of P2UPE
 - Come to meetings with questions
 - Show up consistently
 - Set goals
+
+---
+
+## Next Steps
+Mentors will be reaching out to you later this week to start scheduling with you!
