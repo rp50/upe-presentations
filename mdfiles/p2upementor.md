@@ -33,6 +33,7 @@ Think about what you wanted to know in their positon!
 ## How to Have Success
 - Have a consistent meeting time every week
 - Give them tools to solve problems on their own
+- Meet them where they are (Discord)
 
 ---
 
