@@ -22,7 +22,7 @@ class: invert
 
 ---
 
-Def## Expectations
+## Expectations
 - Show up on time to your meetings
 - Let your Mentor know when you won't make it at least a day in advance, if possible
 - Consistent failure to make meetings will be reported
