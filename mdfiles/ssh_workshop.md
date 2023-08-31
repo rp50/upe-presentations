@@ -8,7 +8,7 @@ class: invert
 
 ---
 
-## About Me
+# About Me
 
 ---
 
@@ -16,19 +16,19 @@ class: invert
 
 ---
 
-#### What is Global Protect, why do I need it?
+#### What is Global Protect Why do I need it?
 * Global Protect is the Campus VPN
-* It helps secure our campus network, preventing outside parties from accessing internal assets
+* Helps to secure our campus network, preventing outside parties from accessing internal assets
 
 ---
 
 ### How do I install it?
-* If you're on Windows or Mac, you can just go to vpn.csuchico.edu, log in, then choose the correct file, and install
+Go to vpn.csuchico.edu, log in, then choose the matching file for your OS, and install
 
 --- 
 
 ### How do I install it on Linux?
-* If you're on Linux, you can visit wiki.charon.click/vpn to view the community documentation for getting connected
+Visit wiki.charon.click/vpn to view the community documentation for getting connected
 
 ---
 
@@ -36,5 +36,43 @@ class: invert
 
 ---
 
-### What is SSH?
-* SSH is a secure way to
+### What is SSH? Why do I need it?
+* SSH is a secure way to connect to a remote server, using secure keys to verify the identity of the server and user
+* SSH is the method used to connect to ECC-Linux
+
+---
+
+### Connecting to ECC-Linux
+
+After connecting to Global Protect, you can enter this in your terminal to connect
+
+```bash
+$ ssh <username>@ecc-linux.csuchico.edu
+```
+
+---
+
+# Additional SSH Tricks
+
+---
+
+### Log into ECC-Linux without a Password
+
+```bash
+$ ssh-keygen -t rsa -b 4096
+$ ssh-copy-id <username>@ecc-linux.csuchico.edu
+```
+
+---
+
+### SSH Tunneling 
+
+```bash
+ssh -ND 9999 <username>@ecc-linux.csuchico.edu
+```
+
+After running this, you will have a proxy that you can route your browser traffic through
+
+---
+
+# Help Session
